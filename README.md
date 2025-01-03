@@ -29,3 +29,15 @@ This repository contains the code for a **responsive To-Do List web application*
 - **JavaScript**: Handles user interactions, including adding, editing, deleting, and marking tasks as complete, with efficient DOM manipulation to update the interface.
 
 
+
+## **How to Use**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rushikeshk2012/EValidator.git 
+   ```
+2. Open the `index.html` file in your browser to start using the tool.
+
+---
+
+Feel free to explore, use, and contribute to this project! 🚀
+
